@@ -137,13 +137,13 @@ img {
   color: #FEFCF7;
 }
 
+.section-our {
+  margin-bottom: 244px;
+}
+
 .section-our__image {
   border-radius: 10px;
   height: 520px;
-}
-
-.section-our {
-  margin-bottom: 244px;
 }
 
 .section-our__box {
